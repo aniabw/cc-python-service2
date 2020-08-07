@@ -1,0 +1,11 @@
+local_env.py
+local_env.pyc
+deployment
+deployment2
+__pycache__
+.idea
+.vscode
+*.zip
+*.csv
+venv
+ssm.cache
